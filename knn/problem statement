@@ -1,0 +1,6 @@
+# KNN REGRESSION:
+Implement KNN Regression on provided dataset.
+Select k =3, The new datapoint is (7, 8), Length= 7, Weight= 8, find the cost using k-NN Regression Algorithm.
+-------------------------------------------------------------------------------------------------
+# KNN CLASSIFICATION:
+Implement KNN Classification on Iris flower dataset.
