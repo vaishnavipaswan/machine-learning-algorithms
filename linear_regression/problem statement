@@ -1,0 +1,16 @@
+To implement linear regression algorithm on a dataset of height & and width and
+print regression coefficient and regression line.
+
+Q. Given a set of points in a two-dimensional plane
+As (x1, y1),
+(x2, y2), (x3, y3)….. (x|D, y|D)
+
+Use linear regression to find the equation of the best regression line for the above data points.
+
+Print the regression coefficient w0 and w1. Apply linear regression algorithm using given
+dataset and predict the weight of a person with height as 5’9”.
+
+The dataset is
+as follows:
+x = [5.0, 5.1, 5.2, 5.3, 5.4, 5.5, 5.6, 5.7, 5.8]
+y = [53, 55, 59, 61, 65, 68, 70, 74, 76]
