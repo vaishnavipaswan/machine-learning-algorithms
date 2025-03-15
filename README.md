@@ -12,7 +12,7 @@ This repository contains implementations of fundamental Machine Learning algorit
 4. **Linear Regression** - Predicts continuous values based on a linear function.
 5. **Decision Tree Algorithm** - A tree-based classification method.
 6. **Perceptron Learning Algorithm** - Implemented for the AND Boolean Function.
-
+7. **Naïve Bayes Algorithm** - A probabilistic classifier based on Bayes' Theorem with independence assumptions.
 ## 🚀 Getting Started
 
 ### Install Dependencies
@@ -37,6 +37,7 @@ machine-learning-algorithms/
 ├── linear_regression
 ├── decision_tree
 ├── perceptron_learning_algorithm
+├── naive_bayes_algorithm
 ├── LICENSE
 ├── README.md
 ```
