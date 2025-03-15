@@ -1,1 +1,2 @@
-To Implement Naive Bayes classification algorithm on the given dataset for the classification task. 
+1. To Implement Naive Bayes classification algorithm on the given "Play_Tennis" dataset for the classification task.
+2. Using the Naïve Bayes Algorithm, we want to classify whether a new fruit is an Apple or Orange based on weight and colour using Gaussian Distribution. 
