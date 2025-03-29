@@ -13,6 +13,9 @@ This repository contains implementations of fundamental Machine Learning algorit
 5. **Decision Tree Algorithm** - A tree-based classification method.
 6. **Perceptron Learning Algorithm** - Implemented for the AND Boolean Function.
 7. **Naïve Bayes Algorithm** - A probabilistic classifier based on Bayes' Theorem with independence assumptions.
+8. **K-Means Clustering** - An unsupervised learning algorithm that partitions data into k clusters.
+9. **Support Vector Machine (SVM)** - A powerful supervised learning model for classification and regression.
+    
 ## 🚀 Getting Started
 
 ### Install Dependencies
@@ -38,6 +41,8 @@ machine-learning-algorithms/
 ├── decision_tree
 ├── perceptron_learning_algorithm
 ├── naive_bayes_algorithm
+├── k-means-algorithm
+├── svm_algorithm
 ├── LICENSE
 ├── README.md
 ```
